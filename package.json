@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "claude": "npx @anthropic-ai/claude-code"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@anthropic-ai/claude-code": "^2.0.42",
+    "g": "^2.0.1"
+  }
+}
